@@ -4,7 +4,7 @@ title: Why is the first IP address in my relay circuit always the same?
 ---
 seo_slug: first-address-relay-circuit
 ---
-key: 44
+key: 43
 ---
 description: 
 That is normal Tor behavior.
